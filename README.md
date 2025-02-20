@@ -14,4 +14,4 @@ Generate professional resumes instantly using AI (Google Gemini).
 4. Run the app: `streamlit run app.py`
 
 ## 🌐 Live Demo  
-👉 [Try it here]((https://smart-internz-project-hyaktaxjkv7opdhcuplfpf.streamlit.app/))  
+👉 [Try it here](https://smart-internz-project-hyaktaxjkv7opdhcuplfpf.streamlit.app/)  
